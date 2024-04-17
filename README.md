@@ -19,6 +19,8 @@ This project involves the creation of a Services Requests Management Dashboard u
 - Paid by regions map chart: Visualization of payments distribution on a map.  
 - Monthly Filter: Filter option to view data for specific months.
 
+![Service Requests Management PBI picture](https://github.com/xuanling-123/Service-Requests-Management-Dashboard/assets/147902495/d80bed2d-7a76-412e-8988-0c2124011b86)  
+
 ## How to Use
 1. Download the Dashboard: Clone or download the repository to access the Power BI dashboard file.  
 2. Open the Dashboard: Open the Power BI dashboard file using Power BI Desktop or Power BI Service.  
